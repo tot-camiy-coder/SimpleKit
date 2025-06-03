@@ -1,0 +1,4 @@
+name: SimpleKit
+version: '1'
+main: Kits
+api-version: '1.21'
